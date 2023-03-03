@@ -18,8 +18,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'KodiStudios', // Usually your GitHub org/user name.
+  projectName: 'kodistudios.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages'
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
