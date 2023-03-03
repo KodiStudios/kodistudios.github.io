@@ -97,6 +97,10 @@ const config = {
                 label: 'Twitter',
                 href: 'https://twitter.com/KodiStudios',
               },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/nikoaristov',
+              },
             ],
           },
           {
