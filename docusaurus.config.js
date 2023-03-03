@@ -101,6 +101,10 @@ const config = {
                 label: 'Instagram',
                 href: 'https://www.instagram.com/nikoaristov',
               },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@kodistudios',
+              },
             ],
           },
           {
