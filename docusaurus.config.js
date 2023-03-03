@@ -108,7 +108,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/https://github.com/KodiStudios/kodistudios.github.io',
+                href: 'https://github.com/KodiStudios/kodistudios.github.io',
               },
             ],
           },
