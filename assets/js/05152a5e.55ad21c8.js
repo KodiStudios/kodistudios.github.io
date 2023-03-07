@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkodi_website=self.webpackChunkkodi_website||[]).push([[120],{898:e=>{e.exports=JSON.parse('{"title":"Folder 1","slug":"/category/folder-1","permalink":"/docs/category/folder-1","navigation":{"previous":{"title":"Intro Page","permalink":"/docs/intro"},"next":{"title":"Congratulations","permalink":"/docs/folder_1/page-1"}}}')}}]);
