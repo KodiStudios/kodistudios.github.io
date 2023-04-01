@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Create GitHub Html Website
+# GitHub Pages Html Website
 
 ## Introduction
 

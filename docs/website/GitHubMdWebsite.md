@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create GitHub Markdown Website
+# GitHub Pages Markdown Website
 
 ## Introduction
 
@@ -18,13 +18,13 @@ Creating Website on GitHub involves following:
    This will contain contents of your Website
 1. Mark Repository as GitHub Pages
    This allows compilation of .md files into .html using GitHub Pipelines
-1. Configure DNS to point to GitHub Pages
+1. Configure DNS to point to GitHub Pages IP Address
 
 ## Create Website
 
 Create new GitHub Repository.
-Use whatever RepositoryName you need. By default, the website name will be:
-`http://RepositoryName.github.io`
+Use whatever repository-name you need. By default, the website name will be:
+`http://repository-name.github.io`
 Note: new Repository will already contain basic `ReadMe.md` file.
 
 GitHub recommends publishing website not with `main` branch, but with `gh-pages` branch. Thus, in Repository, Create a new Branch called `gh-pages`.
