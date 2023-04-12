@@ -27,7 +27,8 @@ Use whatever repository-name you need. By default, the website name will be:
 `http://repository-name.github.io`
 Note: new Repository will already contain basic `ReadMe.md` file.
 
-GitHub recommends publishing website not with `main` branch, but with `gh-pages` branch. Thus, in Repository, Create a new Branch called `gh-pages`.
+GitHub recommends publishing website not with `main` branch, but with specially named `gh-pages` branch. Let's create this branch:  
+In Repository, Create a new Branch called `gh-pages`.
 
 Configure Repository as GitHub Pages  
 Navigate to Settings > Pages  
