@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkodi_website=self.webpackChunkkodi_website||[]).push([[796],{1780:e=>{e.exports=JSON.parse('{"title":"Website","slug":"/category/website","permalink":"/docs/category/website","navigation":{"previous":{"title":"C++ Foreach Loop","permalink":"/docs/cpp/foreach-loop"},"next":{"title":"DNS Quick Setup","permalink":"/docs/website/DNS"}}}')}}]);

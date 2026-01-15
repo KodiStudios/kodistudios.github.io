@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkodi_website=self.webpackChunkkodi_website||[]).push([[118],{6199:e=>{e.exports=JSON.parse('{"title":"C++","slug":"/category/c","permalink":"/docs/category/c","navigation":{"previous":{"title":"TypeScript Foreach Loop","permalink":"/docs/typescript/foreach-loop"},"next":{"title":"C++ Foreach Loop","permalink":"/docs/cpp/foreach-loop"}}}')}}]);
