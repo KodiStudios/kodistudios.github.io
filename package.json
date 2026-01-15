@@ -38,6 +38,7 @@
     ]
   },
   "engines": {
-    "node": ">=16.14"
-  }
+    "node": ">=24.0.0"
+  },
+  "packageManager": "yarn@4.12.0"
 }
