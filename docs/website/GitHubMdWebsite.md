@@ -48,9 +48,9 @@ GitHub will launch DNS check.
 Finally, Check Enforce HTTPS checkbox.
 
 That's it. Now you should be able to go to:  
-<http://yourdomain.com>  
+http://yourdomain.com  
 And see contents of `ReadMe.md`
 
 ## References
 
-<https://docs.github.com/en/pages/getting-started-with-github-pages>
+https://docs.github.com/en/pages/getting-started-with-github-pages

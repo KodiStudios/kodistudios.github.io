@@ -24,7 +24,7 @@ Covers all other prefixes, including `www` in `www.mywebsite.com`
 `Type A` maps `Domain Name` to a specific `IP Address`
 
 Retrieve `IP Address` for GitHub Pages from:
-<https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site>
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
 
 Need to have `Type A` Entries:
 
@@ -46,4 +46,4 @@ Note: It also seems that CNAME is a superset of Type A, so it's not clear what C
 ## Reference
 
 GitHub Pages IP Address:  
-<https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site>
+https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
