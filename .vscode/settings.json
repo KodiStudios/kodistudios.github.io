@@ -1,10 +1,23 @@
 {
-    "cSpell.words": [
-        "Alki",
+  // Formatting
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Spelling
+  "cSpell.allowCompoundWords": true,
+  "cSpell.words": ["Aristov", "Kodi", "nikoari", "Sakura", "xcopy", "yoururl",         "Alki",
         "clsx",
         "Infima",
         "kodistudios",
         "mywebsite",
-        "Tldr"
-    ]
+        "Tldr"],
+
+  // Terminal - PowerShell launching CMD for Copilot compatibility
+  "terminal.integrated.profiles.windows": {
+    "Kodi": {
+      "source": "PowerShell",
+      "args": ["-NoExit", "-Command", "cmd"],
+      "overrideName": true
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "Kodi"
 }
