@@ -1,7 +1,8 @@
 {
   "name": "kodi-website",
-  "version": "0.0.1",
+  "version": "0.26.1",
   "private": true,
+  "license": "UNLICENSED",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -12,8 +13,12 @@
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
-    "update": "yarn up '*' && yarn dlx update-browserslist-db@latest"
+    "lint": "tsc",
+    "//update": "yarn dlx update-browserslist-db updates the caniuse-lite dependency",
+    "update": "yarn up \"@docusaurus/*@latest\" \"@mdx-js/react@latest\" prism-react-renderer@latest typescript@latest \"@types/react@^18\" \"@types/react-dom@^18\" && yarn dlx update-browserslist-db@latest",
+    "clean": "git clean -xdf ."
   },
+  "//dependencies": "react must stay at v18 for Docusaurus 3 compatibility",
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
     "@docusaurus/preset-classic": "^3.9.2",
@@ -24,7 +29,10 @@
     "react-dom": "^19.2.3"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.9.2"
+    "@docusaurus/module-type-aliases": "^3.9.2",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5.9.3"
   },
   "browserslist": {
     "production": [
@@ -40,6 +48,11 @@
   },
   "engines": {
     "node": ">=24.0.0"
+  },
+  "//resolutions": "Force single @types/react version to fix type conflicts with @docusaurus/types",
+  "resolutions": {
+    "@types/react": "^18.3.27",
+    "@types/react-dom": "^18.3.7"
   },
   "packageManager": "yarn@4.12.0"
 }
