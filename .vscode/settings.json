@@ -4,12 +4,21 @@
 
   // Spelling
   "cSpell.allowCompoundWords": true,
-  "cSpell.words": ["Aristov", "Kodi", "nikoari", "Sakura", "xcopy", "yoururl",         "Alki",
-        "clsx",
-        "Infima",
-        "kodistudios",
-        "mywebsite",
-        "Tldr"],
+  "cSpell.words": [
+    "Alki",
+    "Aristov",
+    "clsx",
+    "Infima",
+    "Kodi",
+    "kodistudios",
+    "mywebsite",
+    "nikoari",
+    "Sakura",
+    "Tldr",
+    "Tonivo",
+    "xcopy",
+    "yoururl"
+  ],
 
   // Terminal - PowerShell launching CMD for Copilot compatibility
   "terminal.integrated.profiles.windows": {

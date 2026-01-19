@@ -70,7 +70,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Alki',
+            label: 'Kodi',
           },
           {
             href: 'https://github.com/KodiStudios/kodistudios.github.io',
@@ -86,7 +86,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Alki',
+                label: 'Kodi',
                 to: '/docs/intro',
               },
             ],
