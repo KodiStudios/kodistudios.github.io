@@ -1,30 +1,29 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: 'Kodi Studios',
-  tagline: 'Delightful and Useful Apps',
-  favicon: 'img/KodiStudiosLogo.ico',
+  title: "Kodi Studios",
+  tagline: "Delightful and Useful Apps",
+  favicon: "img/KodiStudiosLogo.ico",
 
   // Set the production url of your site here
-  url: 'https://kodistudios.com',
+  url: "https://kodistudios.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'KodiStudios', // Usually your GitHub org/user name.
-  projectName: 'kodistudios.github.io', // Usually your repo name.
-  deploymentBranch: 'gh-pages',
+  organizationName: "KodiStudios", // Usually your GitHub org/user name.
+  projectName: "kodistudios.github.io", // Usually your repo name.
+  deploymentBranch: "gh-pages",
   trailingSlash: false,
 
-
-  onBrokenLinks: 'throw',
+  onBrokenLinks: "throw",
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: 'warn',
+      onBrokenMarkdownLinks: "warn",
     },
   },
 
@@ -32,23 +31,23 @@ const config: Config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
@@ -56,62 +55,62 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/KodiStudiosLogo.png',
+    image: "img/KodiStudiosLogo.png",
     navbar: {
-      title: 'Kodi Studios',
+      title: "Kodi Studios",
       logo: {
-        alt: 'Kodi Studios Logo',
-        src: 'img/KodiStudiosLogo.svg',
+        alt: "Kodi Studios Logo",
+        src: "img/KodiStudiosLogo.svg",
       },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          position: 'left',
-          label: 'Kodi',
+          type: "doc",
+          docId: "intro",
+          position: "left",
+          label: "Kodi",
         },
         {
-          href: 'https://github.com/KodiStudios/kodistudios.github.io',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/KodiStudios/kodistudios.github.io",
+          label: "GitHub",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Kodi',
-              to: '/docs/intro',
+              label: "Kodi",
+              to: "/docs/intro",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/KodiStudios',
+              label: "Twitter",
+              href: "https://twitter.com/KodiStudios",
             },
             {
-              label: 'Instagram',
-              href: 'https://www.instagram.com/nikoaristov',
+              label: "Instagram",
+              href: "https://www.instagram.com/nikoaristov",
             },
             {
-              label: 'YouTube',
-              href: 'https://www.youtube.com/@kodistudios',
+              label: "YouTube",
+              href: "https://www.youtube.com/@kodistudios",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/KodiStudios/kodistudios.github.io',
+              label: "GitHub",
+              href: "https://github.com/KodiStudios/kodistudios.github.io",
             },
           ],
         },
@@ -123,7 +122,7 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: "light",
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
