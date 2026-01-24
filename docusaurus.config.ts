@@ -5,6 +5,8 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Kodi Studios",
   tagline: "Delightful and Useful Apps",
+
+  // Appears in the browser tab
   favicon: "img/KodiStudiosLogo.ico",
 
   // Set the production url of your site here
@@ -39,12 +41,17 @@ const config: Config = {
     [
       "classic",
       {
+        // Wiki
         docs: {
           sidebarPath: "./sidebars.ts",
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+
+          // Specifies "Edit this page" link at the bottom of each wiki page.
+          // "edit" is GitHub special address to specify Edit node of a given address.
+          // Opposite to "edit" is "tree", which opens Reading Mode.
+          // "main" is the branch where we want edits to be made.
+          // TODO: Maybe switch it to 'develop' branch later?
           editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+            "https://github.com/KodiStudios/kodistudios.github.io/tree/main",
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -91,10 +98,6 @@ const config: Config = {
         {
           title: "Community",
           items: [
-            {
-              label: "Twitter",
-              href: "https://twitter.com/KodiStudios",
-            },
             {
               label: "Instagram",
               href: "https://www.instagram.com/nikoaristov",
