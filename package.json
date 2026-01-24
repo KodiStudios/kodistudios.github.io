@@ -15,6 +15,7 @@
     "write-heading-ids": "docusaurus write-heading-ids",
     "lint": "tsc",
     "//update": "yarn dlx update-browserslist-db updates the caniuse-lite dependency",
+    "//react18": "Docusaurus v3 requires react and react-dom at v18",
     "update": "yarn up \"@docusaurus/*@latest\" \"@mdx-js/react@latest\" prism-react-renderer@latest typescript@latest \"@types/react@^18\" \"@types/react-dom@^18\" && yarn dlx update-browserslist-db@latest",
     "clean": "git clean -xdf ."
   },
