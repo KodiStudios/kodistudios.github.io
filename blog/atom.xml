@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kodistudios.com/blog</id>
+    <title>Kodi Studios Blog</title>
+    <updated>2026-01-24T22:49:29.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kodistudios.com/blog"/>
+    <subtitle>Kodi Studios Blog</subtitle>
+    <icon>https://kodistudios.com/img/KodiStudiosLogo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1/24 Enter New Year 2026]]></title>
+        <id>https://kodistudios.com/blog/1-24-enter-new-year-2026</id>
+        <link href="https://kodistudios.com/blog/1-24-enter-new-year-2026"/>
+        <updated>2026-01-24T22:49:29.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both https//metroevolved.com.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a> and <a href="https://metroevolved.com/" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com</a>.
+The latest version of the Tonivo App is now live, delivering even more value and delight for our users.
+We're looking forward to a year of amazing websites and inspiring apps.
+Here's to making 2026 a memorable year along with our users and community.</p>
+<h1>Accomplishments</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kodi-studios-website">Kodi Studios Website<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#kodi-studios-website" class="hash-link" aria-label="Direct link to Kodi Studios Website" title="Direct link to Kodi Studios Website" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>🛠️ Fixes<br>
+<!-- -->Fixed Edit Links
+Fixed DNS
+Fixe Yaml Publish Pipeline</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Updated Kodi Studios Website to latest packages, including Docusaurus V3, TypeScript, Node.js, Yarn V4 etc.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="metro-evolved-website">Metro Evolved Website<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#metro-evolved-website" class="hash-link" aria-label="Direct link to Metro Evolved Website" title="Direct link to Metro Evolved Website" translate="no">​</a></h2>
+<ul>
+<li class="">🖼️ New Logo<br>
+<!-- -->Created New Logo for MetroEvolved website</li>
+</ul>
+<ul>
+<li class="">
+<p>⛵ New Content Entries<br>
+<!-- -->Added Entries for DNS and Apple Magic Mouse on Windows</p>
+</li>
+<li class="">
+<p>🛠️ Fixes<br>
+<!-- -->Fixed Website Layout</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Updated Kodi Studios Website to latest packages, including Docusaurus V3, TypeScript, Node.js, Yarn V4 etc.</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tonivo-app">Tonivo App<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#tonivo-app" class="hash-link" aria-label="Direct link to Tonivo App" title="Direct link to Tonivo App" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>🐣 New Tonivo App Version<br>
+<!-- -->Released new version of Tonivo Windows App and added download link to Kodi Studios website:<br>
+<a href="https://kodistudios.com/docs/tonivo" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com/docs/tonivo</a></p>
+</li>
+<li class="">
+<p>🎈 Single Exe<br>
+<!-- -->Created option for Single Exe in Tonivo App
+Download it at:<br>
+<a href="https://github.com/KodiStudios/tonivo-release/releases/download/26.1.21/Tonivo.Desktop.exe" target="_blank" rel="noopener noreferrer" class="">Tonivo.Desktop.exe</a></p>
+</li>
+</ul>
+<h1>Next Effort</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>🐣 New Picturethrill App Version<br>
+<!-- -->Release to Kodi Studios Website</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Update Picturethrill App to 2026</p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+        <category label="KodiStudios" term="KodiStudios"/>
+        <category label="MetroEvolved" term="MetroEvolved"/>
+        <category label="Tonivo" term="Tonivo"/>
+        <category label="Picturethrill" term="Picturethrill"/>
+    </entry>
+</feed>
