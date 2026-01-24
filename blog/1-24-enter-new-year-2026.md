@@ -5,6 +5,13 @@ authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
+# Intro
+
+Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both https://kodistudios.com and https://metroevolved.com.
+The latest version of the Tonivo App is now live, delivering even more value and delight for our users.
+We're looking forward to a year of amazing websites and inspiring apps.
+Here's to making 2026 a memorable year along with our users and community.
+
 # Accomplishments
 
 ## Kodi Studios Website
