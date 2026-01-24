@@ -22,6 +22,8 @@ tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 * 🖼️ New Logo  
   Created New Logo for MetroEvolved website
 
+<!-- truncate -->
+
 * ⛵ New Content Entries  
   Added Entries for DNS and Apple Magic Mouse on Windows
 
