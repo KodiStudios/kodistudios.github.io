@@ -1,8 +1,8 @@
 ---
-slug: 1-24-update-to-2026
-title: Seattle Downtown View from Amazon Spheres
+slug: 1-24-enter-new-year-2026
+title: 1/24 Enter New Year 2026
 authors: nikoari
-tags: [Picturethrill, KodiStudios, MetroEvolved, Tonivo]
+tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
 # Accomplishments
@@ -33,8 +33,21 @@ tags: [Picturethrill, KodiStudios, MetroEvolved, Tonivo]
 
 ## Tonivo App
 
+* 🐣 New Tonivo App Version  
+  Released new version of Tonivo Windows App and added download link to Kodi Studios website:  
+  [https://kodistudios.com/docs/tonivo](https://kodistudios.com/docs/tonivo)
+
+* 🎈 Single Exe  
+  Created option for Single Exe in Tonivo App
+  Download it at:  
+  [Tonivo.Desktop.exe](https://github.com/KodiStudios/tonivo-release/releases/download/26.1.21/Tonivo.Desktop.exe)
+
 # Next Effort
 
 ## Picturethrill App
 
-* Update Picturethrill App to 2026
+* 🐣 New Picturethrill App Version  
+  Release to Kodi Studios Website
+
+* 📈 Updates  
+  Update Picturethrill App to 2026
