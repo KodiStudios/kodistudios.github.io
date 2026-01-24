@@ -6,28 +6,25 @@ const config: Config = {
   title: "Kodi Studios",
   tagline: "Delightful and Useful Apps",
 
-  // Appears in the browser tab
+  // Favicon shows up in Browser Tabs, not on actual page
   favicon: "img/KodiStudiosLogo.ico",
 
   // Set the production url of your site here
   url: "https://kodistudios.com",
+
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
+
+  trailingSlash: false,
+
+  onBrokenLinks: "throw",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "KodiStudios", // Usually your GitHub org/user name.
   projectName: "kodistudios.github.io", // Usually your repo name.
   deploymentBranch: "gh-pages",
-  trailingSlash: false,
-
-  onBrokenLinks: "throw",
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: "warn",
-    },
-  },
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -35,6 +32,12 @@ const config: Config = {
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
+  },
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
 
   presets: [
@@ -53,6 +56,15 @@ const config: Config = {
           editUrl:
             "https://github.com/KodiStudios/kodistudios.github.io/tree/main",
         },
+
+        // Blog
+        blog: {
+          showReadingTime: false,
+
+          // Adds "Edit This Page" links
+          editUrl: "https://github.com/KodiStudios/metro-evolved/tree/main",
+        },
+
         theme: {
           customCss: "./src/css/custom.css",
         },
@@ -70,12 +82,24 @@ const config: Config = {
         src: "img/KodiStudiosLogo.svg",
       },
       items: [
+        // Top-Left Links
+        // Wiki
+        // Content is organized by Tree Structure
         {
+          label: "Kodi",
           type: "doc",
           docId: "intro",
           position: "left",
-          label: "Kodi",
         },
+
+        // Blog
+        // Content is organized by Date
+        {
+          label: "Blog",
+          to: "/blog",
+          position: "left",
+        },
+
         {
           href: "https://github.com/KodiStudios/kodistudios.github.io",
           label: "GitHub",
