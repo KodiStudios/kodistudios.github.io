@@ -16,7 +16,7 @@
     "lint": "tsc",
     "//update": "yarn dlx update-browserslist-db updates the caniuse-lite dependency",
     "//react18": "Docusaurus v3 requires react and react-dom at v18",
-    "update": "yarn up \"@docusaurus/*@latest\" \"@mdx-js/react@latest\" prism-react-renderer@latest typescript@latest \"@types/react@^18\" \"@types/react-dom@^18\" && yarn dlx update-browserslist-db@latest",
+    "update": "yarn up \"@docusaurus/*@latest\" \"@mdx-js/react@latest\" clsx@latest prism-react-renderer@latest react@^18 react-dom@^18 typescript@latest \"@types/react@^18\" \"@types/react-dom@^18\" && yarn dlx update-browserslist-db@latest",
     "clean": "git clean -xdf ."
   },
   "//dependencies": "react must stay at v18 for Docusaurus 3 compatibility",
@@ -26,8 +26,8 @@
     "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "prism-react-renderer": "^2.4.1",
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3"
+    "react": "^18",
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
