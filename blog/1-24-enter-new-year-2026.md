@@ -1,6 +1,6 @@
 ---
 slug: 1-24-enter-new-year-2026
-title: January 24: Enter New Year 2026
+title: January 24 - Enter New Year 2026
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
@@ -61,3 +61,4 @@ Here's to making 2026 a memorable year along with our users and community.
 * 📈 Updates  
 
   Update Picturethrill App to 2026
+
