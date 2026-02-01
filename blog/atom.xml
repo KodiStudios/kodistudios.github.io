@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kodistudios.com/blog</id>
     <title>Kodi Studios Blog</title>
-    <updated>2026-02-01T00:05:24.000Z</updated>
+    <updated>2026-02-01T02:19:28.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kodistudios.com/blog"/>
     <subtitle>Kodi Studios Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[January 24 - Enter New Year 2026]]></title>
         <id>https://kodistudios.com/blog/1-24-enter-new-year-2026</id>
         <link href="https://kodistudios.com/blog/1-24-enter-new-year-2026"/>
-        <updated>2026-02-01T00:05:24.000Z</updated>
+        <updated>2026-02-01T02:19:28.000Z</updated>
         <summary type="html"><![CDATA[Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both https//metroevolved.com.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a> and <a href="https://metroevolved.com/" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com</a>.
 The latest version of the Tonivo App is now live, delivering even more value and delight for our users.
@@ -74,6 +74,68 @@ Download it at:<br>
 <li class="">
 <p>📈 Updates</p>
 <p>Update Picturethrill App to 2026</p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+        <category label="KodiStudios" term="KodiStudios"/>
+        <category label="MetroEvolved" term="MetroEvolved"/>
+        <category label="Tonivo" term="Tonivo"/>
+        <category label="Picturethrill" term="Picturethrill"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[January 31 - New Nikolai Aristov Website]]></title>
+        <id>https://kodistudios.com/blog/1-31-new-nikolai-aristov-website</id>
+        <link href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website"/>
+        <updated>2026-02-01T02:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Lots of great progress around Kodi Studios.]]></summary>
+        <content type="html"><![CDATA[<p>Lots of great progress around Kodi Studios.
+Recently, created new lifestyle personal website:<br>
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+<h1>Accomplishments</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="metro-evolved-website">Metro Evolved Website<a href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website#metro-evolved-website" class="hash-link" aria-label="Direct link to Metro Evolved Website" title="Direct link to Metro Evolved Website" translate="no">​</a></h2>
+<ul>
+<li class="">🖼️ Updated Docusaurus Instructions<br>
+<!-- -->As part of creation of new website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a>, also updated
+instructions on Docusaurus:<br>
+<a href="https://metroevolved.com/docs/category/create-site" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com/docs/category/create-site</a>
+Now it's easier more than ever to create
+low-cost websites</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tonivo-app">Tonivo App<a href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website#tonivo-app" class="hash-link" aria-label="Direct link to Tonivo App" title="Direct link to Tonivo App" translate="no">​</a></h2>
+<p><a href="https://kodistudios.com/docs/tonivo" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com/docs/tonivo</a></p>
+<ul>
+<li class="">🐣 Enabled Tonivo App on Lower Windows Versions
+Originally, Tonivo App was able to run
+only on most recent Windows.
+However, it would be nice to support to more
+Windows versions, including some older ones.
+This really increases users who can download and use
+Tonivo App. Now, all of the following versions are supported:<!-- -->
+<ul>
+<li class="">Windows 11</li>
+<li class="">Windows 10</li>
+<li class="">Windows 8</li>
+<li class="">Windows 7</li>
+</ul>
+</li>
+</ul>
+<h1>Next Effort</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>🐣 New Picturethrill App Version<br>
+<!-- -->Release to Kodi Studios Website</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Update Picturethrill App to 2026</p>
+</li>
+<li class="">
+<p>🖼️ Add Personal Picture onto lifestyle site:
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
 </li>
 </ul>]]></content>
         <author>

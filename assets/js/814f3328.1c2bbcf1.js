@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkkodi_website=globalThis.webpackChunkkodi_website||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"January 24 - Enter New Year 2026","permalink":"/blog/1-24-enter-new-year-2026","unlisted":false,"date":"2026-02-01T00:05:24.000Z"}]}')}}]);

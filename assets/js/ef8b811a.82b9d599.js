@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkkodi_website=globalThis.webpackChunkkodi_website||[]).push([[947],{6600(i){i.exports=JSON.parse('{"authors":[{"name":"Nikolai Aristov","title":"Digital Creator","url":"https://github.com/NikoAri","imageURL":"https://github.com/NikoAri.png","key":"nikoari","page":null,"count":2}]}')}}]);
