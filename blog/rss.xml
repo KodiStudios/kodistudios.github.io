@@ -4,7 +4,7 @@
         <title>Kodi Studios Blog</title>
         <link>https://kodistudios.com/blog</link>
         <description>Kodi Studios Blog</description>
-        <lastBuildDate>Sun, 01 Feb 2026 02:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Feb 2026 23:31:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[January 24 - Enter New Year 2026]]></title>
             <link>https://kodistudios.com/blog/1-24-enter-new-year-2026</link>
             <guid>https://kodistudios.com/blog/1-24-enter-new-year-2026</guid>
-            <pubDate>Sun, 01 Feb 2026 02:19:28 GMT</pubDate>
+            <pubDate>Sat, 07 Feb 2026 23:31:51 GMT</pubDate>
             <description><![CDATA[Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both https//metroevolved.com.]]></description>
             <content:encoded><![CDATA[<p>Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a> and <a href="https://metroevolved.com/" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com</a>.
 The latest version of the Tonivo App is now live, delivering even more value and delight for our users.
@@ -86,7 +86,7 @@ Download it at:<br>
             <title><![CDATA[January 31 - New Nikolai Aristov Website]]></title>
             <link>https://kodistudios.com/blog/1-31-new-nikolai-aristov-website</link>
             <guid>https://kodistudios.com/blog/1-31-new-nikolai-aristov-website</guid>
-            <pubDate>Sun, 01 Feb 2026 02:19:28 GMT</pubDate>
+            <pubDate>Sat, 07 Feb 2026 23:31:51 GMT</pubDate>
             <description><![CDATA[Lots of great progress around Kodi Studios.]]></description>
             <content:encoded><![CDATA[<p>Lots of great progress around Kodi Studios.
 Recently, created new lifestyle personal website:<br>
@@ -133,6 +133,49 @@ Tonivo App. Now, all of the following versions are supported:<!-- -->
 <li class="">
 <p>🖼️ Add Personal Picture onto lifestyle site:
 <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+</li>
+</ul>]]></content:encoded>
+            <category>KodiStudios</category>
+            <category>MetroEvolved</category>
+            <category>Tonivo</category>
+            <category>Picturethrill</category>
+        </item>
+        <item>
+            <title><![CDATA[February 7 - Update OneDrive Embed Project]]></title>
+            <link>https://kodistudios.com/blog/2-7-new-nikolai-aristov-website</link>
+            <guid>https://kodistudios.com/blog/2-7-new-nikolai-aristov-website</guid>
+            <pubDate>Sat, 07 Feb 2026 23:31:51 GMT</pubDate>
+            <description><![CDATA[Of course a nice website needs to have great content, not only]]></description>
+            <content:encoded><![CDATA[<p>Of course a nice website needs to have great content, not only
+text but pictures. For personal website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a>
+there needs to be a way to store pictures for it.</p>
+<p>One of answers is OneDrive Embed Script.
+It allows users to store pictures on OneDrive and then reference them
+from their website.</p>
+<h1>Accomplishments</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="onedrive-embed-script">OneDrive Embed Script<a href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website#onedrive-embed-script" class="hash-link" aria-label="Direct link to OneDrive Embed Script" title="Direct link to OneDrive Embed Script" translate="no">​</a></h2>
+<ul>
+<li class="">🖼️ Updated OneDrive Embed Project<br>
+<!-- -->Tons of goodness, updated yarn, linting, TypeScript, testing<br>
+<!-- -->Updated to use latest and greatest patterns<br>
+<!-- -->Added OneDrive Api Integration test<br>
+<!-- -->This allows to easily verify OneDrive Embed Script</li>
+</ul>
+<h1>Next Effort</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsnikolaiaristovcom">Personal Site <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><a href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website#personal-site-httpsnikolaiaristovcom" class="hash-link" aria-label="Direct link to personal-site-httpsnikolaiaristovcom" title="Direct link to personal-site-httpsnikolaiaristovcom" translate="no">​</a></h2>
+<ul>
+<li class="">🖼️ Add Personal Picture onto lifestyle site:
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>🐣 New Picturethrill App Version<br>
+<!-- -->Release to Kodi Studios Website</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Update Picturethrill App to 2026</p>
 </li>
 </ul>]]></content:encoded>
             <category>KodiStudios</category>
