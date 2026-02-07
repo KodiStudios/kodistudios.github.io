@@ -19,10 +19,10 @@ from their website.
 
 ## OneDrive Embed Script
 
-- 🖼️ Updated OneDrive Embed Project
-  Tons of goodness, updated yarn, linting, TypeScript, testing
-  Updated to use latest and greatest patterns
-  Added OneDrive Api Integration test
+- 🖼️ Updated OneDrive Embed Project  
+  Tons of goodness, updated yarn, linting, TypeScript, testing  
+  Updated to use latest and greatest patterns  
+  Added OneDrive Api Integration test  
   This allows to easily verify OneDrive Embed Script
 
 <!--truncate-->
