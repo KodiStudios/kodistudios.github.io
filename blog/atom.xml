@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kodistudios.com/blog</id>
     <title>Kodi Studios Blog</title>
-    <updated>2026-02-16T21:38:14.000Z</updated>
+    <updated>2026-02-23T00:44:52.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kodistudios.com/blog"/>
     <subtitle>Kodi Studios Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[January 24 - Enter New Year 2026]]></title>
         <id>https://kodistudios.com/blog/1-24-enter-new-year-2026</id>
         <link href="https://kodistudios.com/blog/1-24-enter-new-year-2026"/>
-        <updated>2026-02-16T21:38:14.000Z</updated>
+        <updated>2026-02-23T00:44:52.000Z</updated>
         <summary type="html"><![CDATA[Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both https//metroevolved.com.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a> and <a href="https://metroevolved.com/" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com</a>.
 The latest version of the Tonivo App is now live, delivering even more value and delight for our users.
@@ -89,7 +89,7 @@ Download it at:<br>
         <title type="html"><![CDATA[January 31 - New Nikolai Aristov Website]]></title>
         <id>https://kodistudios.com/blog/1-31-new-nikolai-aristov-website</id>
         <link href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website"/>
-        <updated>2026-02-16T21:38:14.000Z</updated>
+        <updated>2026-02-23T00:44:52.000Z</updated>
         <summary type="html"><![CDATA[Lots of great progress around Kodi Studios.]]></summary>
         <content type="html"><![CDATA[<p>Lots of great progress around Kodi Studios.
 Recently, created new lifestyle personal website:<br>
@@ -151,7 +151,7 @@ Tonivo App. Now, all of the following versions are supported:<!-- -->
         <title type="html"><![CDATA[February 16 - Upload New Images]]></title>
         <id>https://kodistudios.com/blog/2-16-upload-new-images</id>
         <link href="https://kodistudios.com/blog/2-16-upload-new-images"/>
-        <updated>2026-02-16T21:38:14.000Z</updated>
+        <updated>2026-02-23T00:44:52.000Z</updated>
         <summary type="html"><![CDATA[It turns out that OneDrive is rather slow to display images through shared URLs.]]></summary>
         <content type="html"><![CDATA[<p>It turns out that OneDrive is rather slow to display images through shared URLs.
 Thus, I ventured onto journey to find alternatives to OneDrive.</p>
@@ -185,10 +185,69 @@ become nowadays.</li>
         <category label="Picturethrill" term="Picturethrill"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[February 22 - Switch Images to Claudinary]]></title>
+        <id>https://kodistudios.com/blog/2-22-switch-to-claudinary</id>
+        <link href="https://kodistudios.com/blog/2-22-switch-to-claudinary"/>
+        <updated>2026-02-23T00:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Finally found replacement of OneDrive with Claudinary.]]></summary>
+        <content type="html"><![CDATA[<p>Finally found replacement of OneDrive with Claudinary.</p>
+<h1>Accomplishments</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="images-research">Images Research<a href="https://kodistudios.com/blog/2-22-switch-to-claudinary#images-research" class="hash-link" aria-label="Direct link to Images Research" title="Direct link to Images Research" translate="no">​</a></h2>
+<ul>
+<li class="">🖼️ Claudinary<br>
+<!-- -->Created end-to-end Image solution for WebSites using Claudinary.
+So far, I'm impressed with Claudinary speed and ease of configuration.
+Hopefully, it will be a nice solution for WebSite Images and other
+assets.<br>
+<!-- -->New Claudinary asset manager scripts are available at:<br>
+<a href="https://github.com/KodiStudios/cloudinary-embed" target="_blank" rel="noopener noreferrer" class="">https://github.com/KodiStudios/cloudinary-embed</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsnikolaiaristovcom">Personal Site <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><a href="https://kodistudios.com/blog/2-22-switch-to-claudinary#personal-site-httpsnikolaiaristovcom" class="hash-link" aria-label="Direct link to personal-site-httpsnikolaiaristovcom" title="Direct link to personal-site-httpsnikolaiaristovcom" translate="no">​</a></h2>
+<ul>
+<li class="">
+<p>🖼️ Add Personal Picture onto lifestyle site:<br>
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+</li>
+<li class="">
+<p>📖 Improved Getting Started Documentation<br>
+<!-- -->Includes Development.md and ReadMe.md</p>
+</li>
+<li class="">
+<p>🌉 Switched from PnP to Node Modules<br>
+<!-- -->This will help with future project maintenance
+Yarn V4 Node Modules makes it easier for
+IDE Editors and other utilities to manage the project</p>
+</li>
+<li class="">
+<p>🌇 Switched End Line setting<br>
+<!-- -->Minor, but important so that repo can work well
+on all platforms, including Windows and macOS</p>
+</li>
+</ul>
+<h1>Next Effort</h1>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2-22-switch-to-claudinary#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h2>
+<ul>
+<li class="">🎈 Align DNS Settings<br>
+<!-- -->Need to switch <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a> to point to
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><br>
+<!-- -->This will allow full merge.<br>
+<!-- -->Also, need to consider:<br>
+<a href="https://aristov.eu/" target="_blank" rel="noopener noreferrer" class="">https://aristov.eu</a></li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+        <category label="KodiStudios" term="KodiStudios"/>
+        <category label="MetroEvolved" term="MetroEvolved"/>
+        <category label="Tonivo" term="Tonivo"/>
+        <category label="Picturethrill" term="Picturethrill"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[February 7 - Update OneDrive Embed Project]]></title>
         <id>https://kodistudios.com/blog/2-7-new-nikolai-aristov-website</id>
         <link href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website"/>
-        <updated>2026-02-16T21:38:14.000Z</updated>
+        <updated>2026-02-23T00:44:52.000Z</updated>
         <summary type="html"><![CDATA[Of course a nice website needs to have great content, not only]]></summary>
         <content type="html"><![CDATA[<p>Of course a nice website needs to have great content, not only
 text but pictures. For personal website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a>
