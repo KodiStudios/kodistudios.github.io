@@ -19,7 +19,8 @@
     "//update:yarn": "Updates packageManager field",
     "update:yarn": "corepack use yarn@latest",
     "update": "node scripts/update.mts",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "clean": "node scripts/clean.mts"
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.2",

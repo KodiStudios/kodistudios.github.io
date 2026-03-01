@@ -9,6 +9,16 @@ Use `yarn` for all commands in this repo (not npm or npx).
 - Dev server: `yarn start`
 - Serve built site: `yarn serve`
 
+## Platform Support
+
+This project is developed on both **Windows** and **macOS**. Always use
+cross-platform solutions:
+
+- Use Node.js built-in APIs (`fs.rm`, etc.) instead of shell commands like
+  `rm -rf`
+- Place cross-platform scripts in the `scripts/` directory as `.mts` files
+- Avoid shell-specific syntax in package.json scripts where possible
+
 ## Known Constraints
 
 - **Do NOT add `"type": "module"` to package.json.** Docusaurus 3.x uses webpack
