@@ -43,5 +43,8 @@ execYarnUp([
   "typescript-eslint@latest",
 ]);
 
-// Update browserslist database
+// The "browserslist" field in package.json uses queries like ">0.5%" to define
+// which browsers we support. These queries run against a local database of browser
+// usage statistics (the "caniuse-lite" package inside node_modules/). This command
+// refreshes that database so the queries reflect current market share data.
 execSync("yarn dlx update-browserslist-db@latest", { stdio: "inherit" });
