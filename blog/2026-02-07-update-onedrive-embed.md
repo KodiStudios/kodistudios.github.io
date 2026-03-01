@@ -1,10 +1,9 @@
 ---
-title: February 7 - Update OneDrive Embed Project
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
-# Intro
+# February 7 - Update OneDrive Embed Project
 
 Of course a nice website needs to have great content, not only
 text but pictures. For personal website https://nikolaiaristov.com
@@ -14,9 +13,9 @@ One of answers is OneDrive Embed Script.
 It allows users to store pictures on OneDrive and then reference them
 from their website.
 
-# Accomplishments
+## Accomplishments
 
-## OneDrive Embed Script
+### OneDrive Embed Script
 
 - 🖼️ Updated OneDrive Embed Project  
   Tons of goodness, updated yarn, linting, TypeScript, testing  
@@ -26,14 +25,14 @@ from their website.
 
 <!--truncate-->
 
-# Next Effort
+## Next Effort
 
-## Personal Site https://nikolaiaristov.com
+### Personal Site https://nikolaiaristov.com
 
 - 🖼️ Add Personal Picture onto lifestyle site:
   https://nikolaiaristov.com
 
-## Picturethrill App
+### Picturethrill App
 
 - 🐣 New Picturethrill App Version  
   Release to Kodi Studios Website

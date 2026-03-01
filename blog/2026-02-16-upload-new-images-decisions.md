@@ -1,17 +1,16 @@
 ---
-title: February 16 - Upload New Images
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
-# Intro
+# February 16 - Upload New Images
 
 It turns out that OneDrive is rather slow to display images through shared URLs.
 Thus, I ventured onto journey to find alternatives to OneDrive.
 
-# Accomplishments
+## Accomplishments
 
-## Images Research
+### Images Research
 
 - 🖼️ Cloudify  
   After real world testing of OneDrive as image provider
@@ -26,9 +25,9 @@ Thus, I ventured onto journey to find alternatives to OneDrive.
 
 <!--truncate-->
 
-# Next Effort
+## Next Effort
 
-## Personal Site https://aristov.net
+### Personal Site https://aristov.net
 
 - 🖼️ Add Personal Picture onto lifestyle site:  
   https://aristov.net

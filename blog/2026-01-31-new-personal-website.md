@@ -1,10 +1,9 @@
 ---
-title: January 31 - New Nikolai Aristov Website
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
-# Intro
+# January 31 - New Nikolai Aristov Website
 
 Lots of great progress around Kodi Studios.
 Recently, created new lifestyle personal website:  
@@ -12,9 +11,9 @@ https://nikolaiaristov.com
 
 <!--truncate-->
 
-# Accomplishments
+## Accomplishments
 
-## Metro Evolved Website
+### Metro Evolved Website
 
 - 🖼️ Updated Docusaurus Instructions  
   As part of creation of new website https://nikolaiaristov.com, also updated
@@ -23,7 +22,7 @@ https://nikolaiaristov.com
   Now it's easier more than ever to create
   low-cost websites
 
-## Tonivo App
+### Tonivo App
 
 https://kodistudios.com/docs/tonivo
 
@@ -39,9 +38,9 @@ https://kodistudios.com/docs/tonivo
   - Windows 8
   - Windows 7
 
-# Next Effort
+## Next Effort
 
-## Picturethrill App
+### Picturethrill App
 
 - 🐣 New Picturethrill App Version  
   Release to Kodi Studios Website

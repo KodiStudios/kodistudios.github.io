@@ -1,16 +1,15 @@
 ---
-title: February 22 - Switch Images to Cloudinary
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
-# Intro
+# February 22 - Switch Images to Cloudinary
 
 Finally found replacement of OneDrive with Cloudinary.
 
-# Accomplishments
+## Accomplishments
 
-## Images Research
+### Images Research
 
 - 🖼️ Cloudinary  
   Created end-to-end Image solution for WebSites using Cloudinary.
@@ -22,7 +21,7 @@ Finally found replacement of OneDrive with Cloudinary.
 
 <!--truncate-->
 
-## Personal Site https://nikolaiaristov.com
+### Personal Site https://nikolaiaristov.com
 
 - 🖼️ Add Personal Picture onto lifestyle site:  
   https://nikolaiaristov.com
@@ -39,9 +38,9 @@ Finally found replacement of OneDrive with Cloudinary.
   Minor, but important so that repo can work well
   on all platforms, including Windows and macOS
 
-# Next Effort
+## Next Effort
 
-## Personal Site https://aristov.net
+### Personal Site https://aristov.net
 
 - 🎈 Align DNS Settings  
   Need to switch https://aristov.net to point to
