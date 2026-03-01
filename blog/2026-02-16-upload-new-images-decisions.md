@@ -2,7 +2,7 @@
 authors: nikoari
 ---
 
-# February 16 - Upload New Images
+# Upload New Images
 
 It turns out that OneDrive is rather slow to display images through shared URLs.
 Thus, I ventured onto journey to find alternatives to OneDrive.

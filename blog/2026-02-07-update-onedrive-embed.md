@@ -2,7 +2,7 @@
 authors: nikoari
 ---
 
-# February 7 - Update OneDrive Embed Project
+# Update OneDrive Embed Project
 
 Of course a nice website needs to have great content, not only
 text but pictures. For personal website https://nikolaiaristov.com

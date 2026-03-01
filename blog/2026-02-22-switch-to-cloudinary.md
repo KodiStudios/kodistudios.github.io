@@ -2,7 +2,7 @@
 authors: nikoari
 ---
 
-# February 22 - Switch Images to Cloudinary
+# Switch Images to Cloudinary
 
 Finally found replacement of OneDrive with Cloudinary.
 

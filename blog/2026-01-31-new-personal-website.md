@@ -2,7 +2,7 @@
 authors: nikoari
 ---
 
-# January 31 - New Nikolai Aristov Website
+# New Nikolai Aristov Website
 
 Lots of great progress around Kodi Studios.
 Recently, created new lifestyle personal website:  
