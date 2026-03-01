@@ -33,3 +33,13 @@ deletion — they're gone permanently.
 
 Our `yarn clean` script (`scripts/clean.mts`) only removes the specific
 directories that actually need resetting, leaving your local files safe.
+
+### Implementation notes
+
+- **`yarn clean`** — the normal way to run the script. This works when
+  `node_modules/` is present and calls `docusaurus clear` to clean its caches.
+- **`node scripts/clean.mts`** — use this if `node_modules/` is already missing.
+  Yarn cannot execute any scripts without its install state, so `yarn clean`
+  will fail in that case. Running with `node` directly works because the script
+  has no npm dependencies — only Node.js 24 built-in modules (`node:fs` and
+  `node:child_process`).
