@@ -3,6 +3,7 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
+  // Middle of screen
   title: "Kodi Studios",
   tagline: "Delightful and Useful Apps",
 

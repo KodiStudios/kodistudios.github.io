@@ -1,24 +1,24 @@
 ---
-slug: 2-22-switch-to-claudinary
-title: February 22 - Switch Images to Claudinary
+slug: 2-22-switch-to-cloudinary
+title: February 22 - Switch Images to Cloudinary
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
 # Intro
 
-Finally found replacement of OneDrive with Claudinary.
+Finally found replacement of OneDrive with Cloudinary.
 
 # Accomplishments
 
 ## Images Research
 
-- 🖼️ Claudinary  
-  Created end-to-end Image solution for WebSites using Claudinary.
-  So far, I'm impressed with Claudinary speed and ease of configuration.
+- 🖼️ Cloudinary  
+  Created end-to-end Image solution for WebSites using Cloudinary.
+  So far, I'm impressed with Cloudinary speed and ease of configuration.
   Hopefully, it will be a nice solution for WebSite Images and other
   assets.  
-  New Claudinary asset manager scripts are available at:  
+  New Cloudinary asset manager scripts are available at:  
   https://github.com/KodiStudios/cloudinary-embed
 
 <!--truncate-->

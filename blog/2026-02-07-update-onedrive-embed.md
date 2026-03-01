@@ -1,5 +1,5 @@
 ---
-slug: 2-7-new-nikolai-aristov-website
+slug: 2-7-update-onedrive-embed
 title: February 7 - Update OneDrive Embed Project
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
