@@ -8,4 +8,5 @@ Delightful and Useful Apps
 
 ## Our Apps
 
-Explore our collection of apps designed to make your life easier and more enjoyable.
+Explore our collection of apps designed to make your life easier and more
+enjoyable.

@@ -11,16 +11,12 @@ Thus, I ventured onto journey to find alternatives to OneDrive.
 
 ### Images Research
 
-- 🖼️ Cloudify  
-  After real world testing of OneDrive as image provider
-  through URLs, it turned out that OneDrive is extremely slow.
-  Like it takes about 5 seconds to load a single image.
-  Started to explore other providers. One promising solution
-  is Cloudify.
-  However, during my research, I ran out of VsCode
-  Copilot Credits 😅
-  Which just shows how important AI utilities have
-  become nowadays.
+- 🖼️ Cloudify\
+  After real world testing of OneDrive as image provider through URLs, it turned
+  out that OneDrive is extremely slow. Like it takes about 5 seconds to load a
+  single image. Started to explore other providers. One promising solution is
+  Cloudify. However, during my research, I ran out of VsCode Copilot Credits 😅
+  Which just shows how important AI utilities have become nowadays.
 
 <!--truncate-->
 
@@ -28,5 +24,5 @@ Thus, I ventured onto journey to find alternatives to OneDrive.
 
 ### Personal Site https://aristov.net
 
-- 🖼️ Add Personal Picture onto lifestyle site:  
+- 🖼️ Add Personal Picture onto lifestyle site:\
   https://aristov.net
