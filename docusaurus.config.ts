@@ -32,9 +32,9 @@ const config: Config = {
   projectName: "kodistudios.github.io", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
@@ -61,8 +61,16 @@ const config: Config = {
         blog: {
           showReadingTime: false,
 
+          feedOptions: {
+            type: ["rss", "atom"],
+            xslt: true,
+          },
           // Adds "Edit This Page" links
-          editUrl: "https://github.com/KodiStudios/metro-evolved/tree/main",
+          editUrl:
+            "https://github.com/KodiStudios/kodistudios.github.io/tree/main",
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
 
         theme: {
