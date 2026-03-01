@@ -1,4 +1,14 @@
+import { readFileSync, writeFileSync } from "node:fs";
 import { execSync } from "node:child_process";
+
+// Update Yarn itself first, so subsequent yarn commands use the latest version.
+// This is safe: corepack downloads the new Yarn binary, but the currently running
+// node process (not Yarn) executes this script. The new Yarn takes effect on the
+// next invocation (i.e., the yarn up calls below).
+execSync("corepack use yarn@latest", { stdio: "inherit" });
+const pkg = JSON.parse(readFileSync("package.json", "utf-8"));
+pkg.packageManager = pkg.packageManager.split("+")[0];
+writeFileSync("package.json", JSON.stringify(pkg, null, 2) + "\n");
 
 function execYarnUp(packages: string[]) {
   execSync(`yarn up ${packages.join(" ")}`, { stdio: "inherit" });
@@ -23,14 +33,14 @@ execYarnUp(["@types/node@^24", "@types/react@^18", "@types/react-dom@^18"]);
 
 // Update dev tooling
 execYarnUp([
+  "@eslint/js@latest",
+  "eslint@latest",
+  "eslint-config-prettier@latest",
+  "eslint-plugin-react-hooks@latest",
+  "globals@latest",
   "prettier@latest",
   "typescript@latest",
-  "eslint@latest",
-  "@eslint/js@latest",
   "typescript-eslint@latest",
-  "eslint-plugin-react-hooks@latest",
-  "eslint-config-prettier@latest",
-  "globals@latest",
 ]);
 
 // Update browserslist database
