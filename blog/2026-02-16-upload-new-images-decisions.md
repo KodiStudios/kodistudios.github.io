@@ -1,6 +1,5 @@
 ---
 authors: nikoari
-tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
 # February 16 - Upload New Images

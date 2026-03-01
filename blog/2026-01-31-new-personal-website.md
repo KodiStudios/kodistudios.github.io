@@ -1,6 +1,5 @@
 ---
 authors: nikoari
-tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
 # January 31 - New Nikolai Aristov Website

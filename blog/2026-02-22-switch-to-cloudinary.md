@@ -1,6 +1,5 @@
 ---
 authors: nikoari
-tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
 ---
 
 # February 22 - Switch Images to Cloudinary
