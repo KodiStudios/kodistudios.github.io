@@ -1,5 +1,4 @@
 ---
-slug: 2-22-switch-to-cloudinary
 title: February 22 - Switch Images to Cloudinary
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]

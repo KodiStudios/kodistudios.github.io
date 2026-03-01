@@ -1,5 +1,4 @@
 ---
-slug: 1-31-new-nikolai-aristov-website
 title: January 31 - New Nikolai Aristov Website
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]

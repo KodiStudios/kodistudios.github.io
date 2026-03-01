@@ -1,5 +1,4 @@
 ---
-slug: 2-16-upload-new-images
 title: February 16 - Upload New Images
 authors: nikoari
 tags: [KodiStudios, MetroEvolved, Tonivo, Picturethrill]
