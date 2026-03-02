@@ -1,37 +1,222 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kodistudios.com/blog</id>
     <title>Kodi Studios Blog</title>
-    <updated>2026-02-23T00:44:52.000Z</updated>
+    <updated>2026-02-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kodistudios.com/blog"/>
     <subtitle>Kodi Studios Blog</subtitle>
     <icon>https://kodistudios.com/img/KodiStudiosLogo.ico</icon>
     <entry>
-        <title type="html"><![CDATA[January 24 - Enter New Year 2026]]></title>
-        <id>https://kodistudios.com/blog/1-24-enter-new-year-2026</id>
-        <link href="https://kodistudios.com/blog/1-24-enter-new-year-2026"/>
-        <updated>2026-02-23T00:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both https//metroevolved.com.]]></summary>
-        <content type="html"><![CDATA[<p>Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full momentum of AI, we are excited to roll out updates across both <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a> and <a href="https://metroevolved.com/" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com</a>.
-The latest version of the Tonivo App is now live, delivering even more value and delight for our users.
-We're looking forward to a year of amazing websites and inspiring apps.
-Here's to making 2026 a memorable year along with our users and community.</p>
-<h1>Accomplishments</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="kodi-studios-website">Kodi Studios Website<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#kodi-studios-website" class="hash-link" aria-label="Direct link to Kodi Studios Website" title="Direct link to Kodi Studios Website" translate="no">​</a></h2>
+        <title type="html"><![CDATA[Switch Images to Cloudinary]]></title>
+        <id>https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary</id>
+        <link href="https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary"/>
+        <updated>2026-02-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Finally found replacement of OneDrive with Cloudinary.]]></summary>
+        <content type="html"><![CDATA[<p>Finally found replacement of OneDrive with Cloudinary.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="images-research">Images Research<a href="https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary#images-research" class="hash-link" aria-label="Direct link to Images Research" title="Direct link to Images Research" translate="no">​</a></h3>
+<ul>
+<li class="">🖼️ Cloudinary<br>
+<!-- -->Created end-to-end Image solution for WebSites using Cloudinary. So far, I'm
+impressed with Cloudinary speed and ease of configuration. Hopefully, it will
+be a nice solution for WebSite Images and other assets.<br>
+<!-- -->New Cloudinary asset manager scripts are available at:<br>
+<a href="https://github.com/KodiStudios/cloudinary-embed" target="_blank" rel="noopener noreferrer" class="">https://github.com/KodiStudios/cloudinary-embed</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsnikolaiaristovcom">Personal Site <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><a href="https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary#personal-site-httpsnikolaiaristovcom" class="hash-link" aria-label="Direct link to personal-site-httpsnikolaiaristovcom" title="Direct link to personal-site-httpsnikolaiaristovcom" translate="no">​</a></h3>
 <ul>
 <li class="">
-<p>🛠️ Fixes<br>
-<!-- -->Fixed Edit Links
-Fixed DNS
-Fixe Yaml Publish Pipeline</p>
+<p>🖼️ Add Personal Picture onto lifestyle site:<br>
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+</li>
+<li class="">
+<p>📖 Improved Getting Started Documentation<br>
+<!-- -->Includes Development.md and ReadMe.md</p>
+</li>
+<li class="">
+<p>🌉 Switched from PnP to Node Modules<br>
+<!-- -->This will help with future project maintenance Yarn V4 Node Modules makes it
+easier for IDE Editors and other utilities to manage the project</p>
+</li>
+<li class="">
+<p>🌇 Switched End Line setting<br>
+<!-- -->Minor, but important so that repo can work well on all platforms, including
+Windows and macOS</p>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h3>
+<ul>
+<li class="">
+<p>🎈 Align DNS Settings<br>
+<!-- -->Need to switch <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a> to point to <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+<p>This will allow full merge.<br>
+<!-- -->Also, need to consider:<br>
+<a href="https://aristov.eu/" target="_blank" rel="noopener noreferrer" class="">https://aristov.eu</a></p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upload New Images]]></title>
+        <id>https://kodistudios.com/blog/2026/02/16/upload-new-images-decisions</id>
+        <link href="https://kodistudios.com/blog/2026/02/16/upload-new-images-decisions"/>
+        <updated>2026-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It turns out that OneDrive is rather slow to display images through shared URLs.]]></summary>
+        <content type="html"><![CDATA[<p>It turns out that OneDrive is rather slow to display images through shared URLs.
+Thus, I ventured onto journey to find alternatives to OneDrive.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/02/16/upload-new-images-decisions#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="images-research">Images Research<a href="https://kodistudios.com/blog/2026/02/16/upload-new-images-decisions#images-research" class="hash-link" aria-label="Direct link to Images Research" title="Direct link to Images Research" translate="no">​</a></h3>
+<ul>
+<li class="">🖼️ Cloudify<br>
+<!-- -->After real world testing of OneDrive as image provider through URLs, it turned
+out that OneDrive is extremely slow. Like it takes about 5 seconds to load a
+single image. Started to explore other providers. One promising solution is
+Cloudify. However, during my research, I ran out of VsCode Copilot Credits 😅
+Which just shows how important AI utilities have become nowadays.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/02/16/upload-new-images-decisions#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2026/02/16/upload-new-images-decisions#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h3>
+<ul>
+<li class="">🖼️ Add Personal Picture onto lifestyle site:<br>
+<a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a></li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update OneDrive Embed Project]]></title>
+        <id>https://kodistudios.com/blog/2026/02/07/update-onedrive-embed</id>
+        <link href="https://kodistudios.com/blog/2026/02/07/update-onedrive-embed"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Of course a nice website needs to have great content, not only text but]]></summary>
+        <content type="html"><![CDATA[<p>Of course a nice website needs to have great content, not only text but
+pictures. For personal website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a> there needs to be a
+way to store pictures for it.</p>
+<p>One of answers is OneDrive Embed Script. It allows users to store pictures on
+OneDrive and then reference them from their website.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/02/07/update-onedrive-embed#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="onedrive-embed-script">OneDrive Embed Script<a href="https://kodistudios.com/blog/2026/02/07/update-onedrive-embed#onedrive-embed-script" class="hash-link" aria-label="Direct link to OneDrive Embed Script" title="Direct link to OneDrive Embed Script" translate="no">​</a></h3>
+<ul>
+<li class="">🖼️ Updated OneDrive Embed Project<br>
+<!-- -->Tons of goodness, updated yarn, linting, TypeScript, testing<br>
+<!-- -->Updated to use latest and greatest patterns<br>
+<!-- -->Added OneDrive Api Integration test<br>
+<!-- -->This allows to easily verify OneDrive Embed Script</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/02/07/update-onedrive-embed#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsnikolaiaristovcom">Personal Site <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><a href="https://kodistudios.com/blog/2026/02/07/update-onedrive-embed#personal-site-httpsnikolaiaristovcom" class="hash-link" aria-label="Direct link to personal-site-httpsnikolaiaristovcom" title="Direct link to personal-site-httpsnikolaiaristovcom" translate="no">​</a></h3>
+<ul>
+<li class="">🖼️ Add Personal Picture onto lifestyle site:<br>
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/2026/02/07/update-onedrive-embed#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h3>
+<ul>
+<li class="">
+<p>🐣 New Picturethrill App Version<br>
+<!-- -->Release to Kodi Studios Website</p>
 </li>
 <li class="">
 <p>📈 Updates<br>
-<!-- -->Updated Kodi Studios Website to latest packages, including Docusaurus V3, TypeScript, Node.js, Yarn V4 etc.</p>
+<!-- -->Update Picturethrill App to 2026</p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Nikolai Aristov Website]]></title>
+        <id>https://kodistudios.com/blog/2026/01/31/new-personal-website</id>
+        <link href="https://kodistudios.com/blog/2026/01/31/new-personal-website"/>
+        <updated>2026-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lots of great progress around Kodi Studios. Recently, created new lifestyle]]></summary>
+        <content type="html"><![CDATA[<p>Lots of great progress around Kodi Studios. Recently, created new lifestyle
+personal website:<br>
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/01/31/new-personal-website#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="metro-evolved-website">Metro Evolved Website<a href="https://kodistudios.com/blog/2026/01/31/new-personal-website#metro-evolved-website" class="hash-link" aria-label="Direct link to Metro Evolved Website" title="Direct link to Metro Evolved Website" translate="no">​</a></h3>
+<ul>
+<li class="">
+<p>🖼️ Updated Docusaurus Instructions<br>
+<!-- -->As part of creation of new website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a>, also updated
+instructions on Docusaurus:<br>
+<a href="https://metroevolved.com/docs/category/create-site" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com/docs/category/create-site</a></p>
+<p>Now it's easier more than ever to create low-cost websites</p>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="metro-evolved-website">Metro Evolved Website<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#metro-evolved-website" class="hash-link" aria-label="Direct link to Metro Evolved Website" title="Direct link to Metro Evolved Website" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="tonivo-app">Tonivo App<a href="https://kodistudios.com/blog/2026/01/31/new-personal-website#tonivo-app" class="hash-link" aria-label="Direct link to Tonivo App" title="Direct link to Tonivo App" translate="no">​</a></h3>
+<p><a href="https://kodistudios.com/docs/tonivo" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com/docs/tonivo</a></p>
+<ul>
+<li class="">🐣 Enabled Tonivo App on Lower Windows Versions<br>
+<!-- -->Originally, Tonivo App was able to run only on most recent Windows. However,
+it would be nice to support to more Windows versions, including some older
+ones. This really increases users who can download and use Tonivo App. Now,
+all of the following versions are supported:<!-- -->
+<ul>
+<li class="">Windows 11</li>
+<li class="">Windows 10</li>
+<li class="">Windows 8</li>
+<li class="">Windows 7</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/01/31/new-personal-website#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/2026/01/31/new-personal-website#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h3>
+<ul>
+<li class="">
+<p>🐣 New Picturethrill App Version<br>
+<!-- -->Release to Kodi Studios Website</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Update Picturethrill App to 2026</p>
+</li>
+<li class="">
+<p>🖼️ Add Personal Picture onto lifestyle site:<br>
+<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enter New Year 2026]]></title>
+        <id>https://kodistudios.com/blog/2026/01/24/enter-new-year-2026</id>
+        <link href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026"/>
+        <updated>2026-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to a fresh new year at Kodi Studios. As we step into 2026 with the full
+momentum of AI, we are excited to roll out updates across both
+<a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a> and <a href="https://metroevolved.com/" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com</a>. The latest version of the
+Tonivo App is now live, delivering even more value and delight for our users.
+We're looking forward to a year of amazing websites and inspiring apps. Here's
+to making 2026 a memorable year along with our users and community.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="kodi-studios-website">Kodi Studios Website<a href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026#kodi-studios-website" class="hash-link" aria-label="Direct link to Kodi Studios Website" title="Direct link to Kodi Studios Website" translate="no">​</a></h3>
+<ul>
+<li class="">
+<p>🛠️ Fixes<br>
+<!-- -->Fixed Edit Links<br>
+<!-- -->Fixed DNS<br>
+<!-- -->Fixe Yaml Publish Pipeline</p>
+</li>
+<li class="">
+<p>📈 Updates<br>
+<!-- -->Updated Kodi Studios Website to latest packages, including Docusaurus V3,
+TypeScript, Node.js, Yarn V4 etc.</p>
+</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="metro-evolved-website">Metro Evolved Website<a href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026#metro-evolved-website" class="hash-link" aria-label="Direct link to Metro Evolved Website" title="Direct link to Metro Evolved Website" translate="no">​</a></h3>
 <ul>
 <li class="">🖼️ New Logo<br>
 <!-- -->Created New Logo for MetroEvolved website</li>
@@ -47,230 +232,27 @@ Fixe Yaml Publish Pipeline</p>
 </li>
 <li class="">
 <p>📈 Updates<br>
-<!-- -->Updated Kodi Studios Website to latest packages, including Docusaurus V3, TypeScript, Node.js, Yarn V4 etc.</p>
+<!-- -->Updated Kodi Studios Website to latest packages, including Docusaurus V3,
+TypeScript, Node.js, Yarn V4 etc.</p>
 </li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tonivo-app">Tonivo App<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#tonivo-app" class="hash-link" aria-label="Direct link to Tonivo App" title="Direct link to Tonivo App" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="tonivo-app">Tonivo App<a href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026#tonivo-app" class="hash-link" aria-label="Direct link to Tonivo App" title="Direct link to Tonivo App" translate="no">​</a></h3>
 <ul>
 <li class="">
 <p>🐣 New Tonivo App Version<br>
-<!-- -->Released new version of Tonivo Windows App and added download link to Kodi Studios website:<br>
+<!-- -->Released new version of Tonivo Windows App and added download link to Kodi
+Studios website:<br>
 <a href="https://kodistudios.com/docs/tonivo" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com/docs/tonivo</a></p>
 </li>
 <li class="">
 <p>🎈 Single Exe<br>
-<!-- -->Created option for Single Exe in Tonivo App
-Download it at:<br>
+<!-- -->Created option for Single Exe in Tonivo App<br>
+<!-- -->Download it at:<br>
 <a href="https://github.com/KodiStudios/tonivo-release/releases/download/26.1.21/Tonivo.Desktop.exe" target="_blank" rel="noopener noreferrer" class="">Tonivo.Desktop.exe</a></p>
 </li>
 </ul>
-<h1>Next Effort</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/1-24-enter-new-year-2026#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h2>
-<ul>
-<li class="">
-<p>🐣 New Picturethrill App Version<br>
-<!-- -->Release to Kodi Studios Website</p>
-</li>
-<li class="">
-<p>📈 Updates</p>
-<p>Update Picturethrill App to 2026</p>
-</li>
-</ul>]]></content>
-        <author>
-            <name>Nikolai Aristov</name>
-            <uri>https://github.com/NikoAri</uri>
-        </author>
-        <category label="KodiStudios" term="KodiStudios"/>
-        <category label="MetroEvolved" term="MetroEvolved"/>
-        <category label="Tonivo" term="Tonivo"/>
-        <category label="Picturethrill" term="Picturethrill"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[January 31 - New Nikolai Aristov Website]]></title>
-        <id>https://kodistudios.com/blog/1-31-new-nikolai-aristov-website</id>
-        <link href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website"/>
-        <updated>2026-02-23T00:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Lots of great progress around Kodi Studios.]]></summary>
-        <content type="html"><![CDATA[<p>Lots of great progress around Kodi Studios.
-Recently, created new lifestyle personal website:<br>
-<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
-<h1>Accomplishments</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="metro-evolved-website">Metro Evolved Website<a href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website#metro-evolved-website" class="hash-link" aria-label="Direct link to Metro Evolved Website" title="Direct link to Metro Evolved Website" translate="no">​</a></h2>
-<ul>
-<li class="">🖼️ Updated Docusaurus Instructions<br>
-<!-- -->As part of creation of new website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a>, also updated
-instructions on Docusaurus:<br>
-<a href="https://metroevolved.com/docs/category/create-site" target="_blank" rel="noopener noreferrer" class="">https://metroevolved.com/docs/category/create-site</a>
-Now it's easier more than ever to create
-low-cost websites</li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tonivo-app">Tonivo App<a href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website#tonivo-app" class="hash-link" aria-label="Direct link to Tonivo App" title="Direct link to Tonivo App" translate="no">​</a></h2>
-<p><a href="https://kodistudios.com/docs/tonivo" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com/docs/tonivo</a></p>
-<ul>
-<li class="">🐣 Enabled Tonivo App on Lower Windows Versions
-Originally, Tonivo App was able to run
-only on most recent Windows.
-However, it would be nice to support to more
-Windows versions, including some older ones.
-This really increases users who can download and use
-Tonivo App. Now, all of the following versions are supported:<!-- -->
-<ul>
-<li class="">Windows 11</li>
-<li class="">Windows 10</li>
-<li class="">Windows 8</li>
-<li class="">Windows 7</li>
-</ul>
-</li>
-</ul>
-<h1>Next Effort</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/1-31-new-nikolai-aristov-website#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h2>
-<ul>
-<li class="">
-<p>🐣 New Picturethrill App Version<br>
-<!-- -->Release to Kodi Studios Website</p>
-</li>
-<li class="">
-<p>📈 Updates<br>
-<!-- -->Update Picturethrill App to 2026</p>
-</li>
-<li class="">
-<p>🖼️ Add Personal Picture onto lifestyle site:
-<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
-</li>
-</ul>]]></content>
-        <author>
-            <name>Nikolai Aristov</name>
-            <uri>https://github.com/NikoAri</uri>
-        </author>
-        <category label="KodiStudios" term="KodiStudios"/>
-        <category label="MetroEvolved" term="MetroEvolved"/>
-        <category label="Tonivo" term="Tonivo"/>
-        <category label="Picturethrill" term="Picturethrill"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February 16 - Upload New Images]]></title>
-        <id>https://kodistudios.com/blog/2-16-upload-new-images</id>
-        <link href="https://kodistudios.com/blog/2-16-upload-new-images"/>
-        <updated>2026-02-23T00:44:52.000Z</updated>
-        <summary type="html"><![CDATA[It turns out that OneDrive is rather slow to display images through shared URLs.]]></summary>
-        <content type="html"><![CDATA[<p>It turns out that OneDrive is rather slow to display images through shared URLs.
-Thus, I ventured onto journey to find alternatives to OneDrive.</p>
-<h1>Accomplishments</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="images-research">Images Research<a href="https://kodistudios.com/blog/2-16-upload-new-images#images-research" class="hash-link" aria-label="Direct link to Images Research" title="Direct link to Images Research" translate="no">​</a></h2>
-<ul>
-<li class="">🖼️ Cloudify<br>
-<!-- -->After real world testing of OneDrive as image provider
-through URLs, it turned out that OneDrive is extremely slow.
-Like it takes about 5 seconds to load a single image.
-Started to explore other providers. One promising solution
-is Cloudify.
-However, during my research, I ran out of VsCode
-Copilot Credits 😅
-Which just shows how important AI utilities have
-become nowadays.</li>
-</ul>
-<h1>Next Effort</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2-16-upload-new-images#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h2>
-<ul>
-<li class="">🖼️ Add Personal Picture onto lifestyle site:<br>
-<a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a></li>
-</ul>]]></content>
-        <author>
-            <name>Nikolai Aristov</name>
-            <uri>https://github.com/NikoAri</uri>
-        </author>
-        <category label="KodiStudios" term="KodiStudios"/>
-        <category label="MetroEvolved" term="MetroEvolved"/>
-        <category label="Tonivo" term="Tonivo"/>
-        <category label="Picturethrill" term="Picturethrill"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February 22 - Switch Images to Claudinary]]></title>
-        <id>https://kodistudios.com/blog/2-22-switch-to-claudinary</id>
-        <link href="https://kodistudios.com/blog/2-22-switch-to-claudinary"/>
-        <updated>2026-02-23T00:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Finally found replacement of OneDrive with Claudinary.]]></summary>
-        <content type="html"><![CDATA[<p>Finally found replacement of OneDrive with Claudinary.</p>
-<h1>Accomplishments</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="images-research">Images Research<a href="https://kodistudios.com/blog/2-22-switch-to-claudinary#images-research" class="hash-link" aria-label="Direct link to Images Research" title="Direct link to Images Research" translate="no">​</a></h2>
-<ul>
-<li class="">🖼️ Claudinary<br>
-<!-- -->Created end-to-end Image solution for WebSites using Claudinary.
-So far, I'm impressed with Claudinary speed and ease of configuration.
-Hopefully, it will be a nice solution for WebSite Images and other
-assets.<br>
-<!-- -->New Claudinary asset manager scripts are available at:<br>
-<a href="https://github.com/KodiStudios/cloudinary-embed" target="_blank" rel="noopener noreferrer" class="">https://github.com/KodiStudios/cloudinary-embed</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsnikolaiaristovcom">Personal Site <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><a href="https://kodistudios.com/blog/2-22-switch-to-claudinary#personal-site-httpsnikolaiaristovcom" class="hash-link" aria-label="Direct link to personal-site-httpsnikolaiaristovcom" title="Direct link to personal-site-httpsnikolaiaristovcom" translate="no">​</a></h2>
-<ul>
-<li class="">
-<p>🖼️ Add Personal Picture onto lifestyle site:<br>
-<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
-</li>
-<li class="">
-<p>📖 Improved Getting Started Documentation<br>
-<!-- -->Includes Development.md and ReadMe.md</p>
-</li>
-<li class="">
-<p>🌉 Switched from PnP to Node Modules<br>
-<!-- -->This will help with future project maintenance
-Yarn V4 Node Modules makes it easier for
-IDE Editors and other utilities to manage the project</p>
-</li>
-<li class="">
-<p>🌇 Switched End Line setting<br>
-<!-- -->Minor, but important so that repo can work well
-on all platforms, including Windows and macOS</p>
-</li>
-</ul>
-<h1>Next Effort</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2-22-switch-to-claudinary#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h2>
-<ul>
-<li class="">🎈 Align DNS Settings<br>
-<!-- -->Need to switch <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a> to point to
-<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><br>
-<!-- -->This will allow full merge.<br>
-<!-- -->Also, need to consider:<br>
-<a href="https://aristov.eu/" target="_blank" rel="noopener noreferrer" class="">https://aristov.eu</a></li>
-</ul>]]></content>
-        <author>
-            <name>Nikolai Aristov</name>
-            <uri>https://github.com/NikoAri</uri>
-        </author>
-        <category label="KodiStudios" term="KodiStudios"/>
-        <category label="MetroEvolved" term="MetroEvolved"/>
-        <category label="Tonivo" term="Tonivo"/>
-        <category label="Picturethrill" term="Picturethrill"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[February 7 - Update OneDrive Embed Project]]></title>
-        <id>https://kodistudios.com/blog/2-7-new-nikolai-aristov-website</id>
-        <link href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website"/>
-        <updated>2026-02-23T00:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Of course a nice website needs to have great content, not only]]></summary>
-        <content type="html"><![CDATA[<p>Of course a nice website needs to have great content, not only
-text but pictures. For personal website <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a>
-there needs to be a way to store pictures for it.</p>
-<p>One of answers is OneDrive Embed Script.
-It allows users to store pictures on OneDrive and then reference them
-from their website.</p>
-<h1>Accomplishments</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="onedrive-embed-script">OneDrive Embed Script<a href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website#onedrive-embed-script" class="hash-link" aria-label="Direct link to OneDrive Embed Script" title="Direct link to OneDrive Embed Script" translate="no">​</a></h2>
-<ul>
-<li class="">🖼️ Updated OneDrive Embed Project<br>
-<!-- -->Tons of goodness, updated yarn, linting, TypeScript, testing<br>
-<!-- -->Updated to use latest and greatest patterns<br>
-<!-- -->Added OneDrive Api Integration test<br>
-<!-- -->This allows to easily verify OneDrive Embed Script</li>
-</ul>
-<h1>Next Effort</h1>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsnikolaiaristovcom">Personal Site <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a><a href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website#personal-site-httpsnikolaiaristovcom" class="hash-link" aria-label="Direct link to personal-site-httpsnikolaiaristovcom" title="Direct link to personal-site-httpsnikolaiaristovcom" translate="no">​</a></h2>
-<ul>
-<li class="">🖼️ Add Personal Picture onto lifestyle site:
-<a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></li>
-</ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/2-7-new-nikolai-aristov-website#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="picturethrill-app">Picturethrill App<a href="https://kodistudios.com/blog/2026/01/24/enter-new-year-2026#picturethrill-app" class="hash-link" aria-label="Direct link to Picturethrill App" title="Direct link to Picturethrill App" translate="no">​</a></h3>
 <ul>
 <li class="">
 <p>🐣 New Picturethrill App Version<br>
@@ -285,9 +267,5 @@ from their website.</p>
             <name>Nikolai Aristov</name>
             <uri>https://github.com/NikoAri</uri>
         </author>
-        <category label="KodiStudios" term="KodiStudios"/>
-        <category label="MetroEvolved" term="MetroEvolved"/>
-        <category label="Tonivo" term="Tonivo"/>
-        <category label="Picturethrill" term="Picturethrill"/>
     </entry>
 </feed>
