@@ -10,8 +10,8 @@ modern and sustainable solutions like Docusaurus. It really takes an effort to
 get website to good condition. However, if approached one step at a time, this
 big effort can be fully achieved.
 
-One lesson is to not get overwhelmed. Tech stack change every other year, but as
-long as you keep and control your content, you have the power to migrate,
+One lesson is to not get overwhelmed. Tech stack changes every other year, but
+as long as you keep and control your content, you have the power to migrate,
 transform it.
 
 Don't be afraid to start new website, even in 2026 with social media all around.
