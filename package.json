@@ -4,20 +4,24 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "docusaurus": "docusaurus",
+    "//-- Development --//": "",
+    "//start": "Dev server with hot reload",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
-    "clear": "docusaurus clear",
+    "//serve": "Serves the build/ output locally (run yarn build first)",
     "serve": "docusaurus serve",
-    "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids",
-    "lint": "tsc",
-    "//update_1": "yarn dlx update-browserslist-db updates the caniuse-lite dependency",
-    "//update_2": "Docusaurus v3 requires react and react-dom at v18",
-    "update": "yarn up \"@docusaurus/*@latest\" \"@mdx-js/react@latest\" clsx@latest prism-react-renderer@latest react@^18 react-dom@^18 \"@types/react@^18\" \"@types/react-dom@^18\" typescript@latest && yarn dlx update-browserslist-db@latest",
-    "clean": "git clean -xdf ."
+    "//-- Code quality --//": "",
+    "lint": "yarn typecheck && yarn format && yarn eslint",
+    "typecheck": "tsc",
+    "format": "prettier --write .",
+    "eslint": "eslint --fix .",
+    "//-- Maintenance --//": "",
+    "clean": "node scripts/clean.mts",
+    "clear:docu": "docusaurus clear",
+    "//update": "Updates dependencies, devDependencies, and Yarn itself",
+    "update": "node scripts/update.mts",
+    "//-- Docusaurus --//": "",
+    "swizzle": "docusaurus swizzle"
   },
   "dependencies": {
     "@docusaurus/core": "^3.9.2",
@@ -31,9 +35,23 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@docusaurus/tsconfig": "^3.9.2",
+    "@docusaurus/types": "^3.9.2",
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "typescript": "^5.9.3"
+    "eslint": "^10.0.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^17.4.0",
+    "prettier": "^3.8.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.56.1"
+  },
+  "//resolutions": "Docusaurus Sets Dependency to @types/react:*",
+  "resolutions": {
+    "@types/react": "^18",
+    "@types/react-dom": "^18"
   },
   "browserslist": {
     "production": [

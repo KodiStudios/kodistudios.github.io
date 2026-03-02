@@ -1,6 +1,27 @@
 {
+  // Enforce Unix-style (LF) line endings in VS Code.
+  // Otherwise the default line ending is CRLF on Windows,
+  // which can cause issues in cross-platform development.
+  // Note: A more generic cross-editor approach is .editorconfig,
+  // but VS Code doesn't support it without a third-party extension.
+  "files.eol": "\n",
+
   // Formatting
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  // .tsx files
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
 
   // Spelling
   "cSpell.allowCompoundWords": true,
@@ -10,6 +31,7 @@
     "Claudinary",
     "Cloudify",
     "clsx",
+    "docu",
     "Infima",
     "Kodi",
     "kodistudios",

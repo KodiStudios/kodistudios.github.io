@@ -3,20 +3,26 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
+  // Center
   title: "Kodi Studios",
   tagline: "Delightful and Useful Apps",
 
   // Favicon shows up in Browser Tabs, not on actual page
   favicon: "img/KodiStudiosLogo.ico",
 
+  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
+  future: {
+    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+  },
+
   // Set the production url of your site here
   url: "https://kodistudios.com",
+
+  trailingSlash: false,
 
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
-
-  trailingSlash: false,
 
   onBrokenLinks: "throw",
 
@@ -26,25 +32,19 @@ const config: Config = {
   projectName: "kodistudios.github.io", // Usually your repo name.
   deploymentBranch: "gh-pages",
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: "en",
     locales: ["en"],
-  },
-
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: "warn",
-    },
   },
 
   presets: [
     [
       "classic",
       {
-        // Wiki
+        // Top Left, 1st Item
         docs: {
           sidebarPath: "./sidebars.ts",
 
@@ -57,12 +57,20 @@ const config: Config = {
             "https://github.com/KodiStudios/kodistudios.github.io/tree/main",
         },
 
-        // Blog
+        // Top Left, 2nd Item
         blog: {
           showReadingTime: false,
 
+          feedOptions: {
+            type: ["rss", "atom"],
+            xslt: true,
+          },
           // Adds "Edit This Page" links
-          editUrl: "https://github.com/KodiStudios/metro-evolved/tree/main",
+          editUrl:
+            "https://github.com/KodiStudios/kodistudios.github.io/tree/main",
+          onInlineTags: "warn",
+          onInlineAuthors: "warn",
+          onUntruncatedBlogPosts: "warn",
         },
 
         theme: {
@@ -82,7 +90,8 @@ const config: Config = {
         src: "img/KodiStudiosLogo.svg",
       },
       items: [
-        // Top-Left Links
+        // Top-Left Links Section
+        //
         // Wiki
         // Content is organized by Tree Structure
         {
@@ -100,6 +109,7 @@ const config: Config = {
           position: "left",
         },
 
+        // Top-Right
         {
           href: "https://github.com/KodiStudios/kodistudios.github.io",
           label: "GitHub",
@@ -107,9 +117,12 @@ const config: Config = {
         },
       ],
     },
+
+    // Bottom
     footer: {
       style: "dark",
       links: [
+        // Bottom Left
         {
           title: "Docs",
           items: [
@@ -117,8 +130,14 @@ const config: Config = {
               label: "Kodi",
               to: "/docs/intro",
             },
+            {
+              label: "Blog",
+              to: "/blog",
+            },
           ],
         },
+
+        // Bottom Center
         {
           title: "Community",
           items: [
@@ -132,6 +151,8 @@ const config: Config = {
             },
           ],
         },
+
+        // Bottom Right
         {
           title: "More",
           items: [
