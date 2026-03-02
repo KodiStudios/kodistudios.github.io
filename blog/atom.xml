@@ -2,11 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kodistudios.com/blog</id>
     <title>Kodi Studios Blog</title>
-    <updated>2026-02-22T00:00:00.000Z</updated>
+    <updated>2026-03-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kodistudios.com/blog"/>
     <subtitle>Kodi Studios Blog</subtitle>
     <icon>https://kodistudios.com/img/KodiStudiosLogo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Simplify Blog Workflow for Kodi Studios Website]]></title>
+        <id>https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios</id>
+        <link href="https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios"/>
+        <updated>2026-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kodi Studios is an old website, it has gone through multiple iterations. Some]]></summary>
+        <content type="html"><![CDATA[<p>Kodi Studios is an old website, it has gone through multiple iterations. Some
+were more successful than others. Started off with WordPress, then moved to more
+modern and sustainable solutions like Docusaurus. It really takes an effort to
+get website to good condition. However, if approached one step at a time, this
+big effort can be fully achieved.</p>
+<p>One lesson is to not get overwhelmed. Tech stack change every other year, but as
+long as you keep and control your content, you have the power to migrate,
+transform it.</p>
+<p>Don't be afraid to start new website, even in 2026 with social media all around.
+Social media basically controls what it shows and what it doesn't. Your own
+website is your own presence on internet.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="kodi-studios-website-httpskodistudioscom">Kodi Studios Website <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a><a href="https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios#kodi-studios-website-httpskodistudioscom" class="hash-link" aria-label="Direct link to kodi-studios-website-httpskodistudioscom" title="Direct link to kodi-studios-website-httpskodistudioscom" translate="no">​</a></h3>
+<ul>
+<li class="">🖼️ Blog <br>
+<!-- -->Migrated to new blogging pattern that removes noise and allows creator to
+concentrate on blog content and message. <br>
+<!-- -->One of core improvements is enabling markdown formatting, which improves
+readability not only for rendered blog pages, but also for original source
+markdown files. Super Excited for this improvement. <br>
+<!-- -->Blogging can become a pleasant zen activity, rather than a battle with
+formatting utilities.</li>
+<li class="">⛵ Linters <br>
+<!-- -->Added Linters and other Best Practices into Kodi Studios website. It should
+make it easier to maintain, update.</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h3>
+<ul>
+<li class="">🎈 Align DNS Settings<br>
+<!-- -->Need to switch <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a> to point to <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a> <br>
+<!-- -->This will allow full merge.<br>
+<!-- -->Also, need to consider:<br>
+<a href="https://aristov.eu/" target="_blank" rel="noopener noreferrer" class="">https://aristov.eu</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="kodi-studios-website-httpskodistudioscom-1">Kodi Studios Website <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a><a href="https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios#kodi-studios-website-httpskodistudioscom-1" class="hash-link" aria-label="Direct link to kodi-studios-website-httpskodistudioscom-1" title="Direct link to kodi-studios-website-httpskodistudioscom-1" translate="no">​</a></h3>
+<ul>
+<li class="">🐝 Incorporate Best Practices 2026 <br>
+<!-- -->There are still few improvements that still can be done to really make Kodi
+Studios shine. They also include some cleanup and will make it even easier to
+futher make Kodi Studios awesome!</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch Images to Cloudinary]]></title>
         <id>https://kodistudios.com/blog/2026/02/22/switch-to-cloudinary</id>
