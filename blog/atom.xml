@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kodistudios.com/blog</id>
     <title>Kodi Studios Blog</title>
-    <updated>2026-03-01T00:00:00.000Z</updated>
+    <updated>2026-03-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kodistudios.com/blog"/>
     <subtitle>Kodi Studios Blog</subtitle>
     <icon>https://kodistudios.com/img/KodiStudiosLogo.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Add First Ronda Picture]]></title>
+        <id>https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture</id>
+        <link href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture"/>
+        <updated>2026-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It took some time, but finally I was able to add a picture from iPhone to my]]></summary>
+        <content type="html"><![CDATA[<p>It took some time, but finally I was able to add a picture from iPhone to my
+website: <br>
+<a href="https://nikolaiaristov.com/docs/spain/ronda" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com/docs/spain/ronda</a></p>
+<p>🖼️ This is a great achievement, proving end-to-end workflow for website picture
+upload.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="accomplishments">Accomplishments<a href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture#accomplishments" class="hash-link" aria-label="Direct link to Accomplishments" title="Direct link to Accomplishments" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="cloudinary-embed">Cloudinary Embed<a href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture#cloudinary-embed" class="hash-link" aria-label="Direct link to Cloudinary Embed" title="Direct link to Cloudinary Embed" translate="no">​</a></h3>
+<p><a href="https://github.com/KodiStudios/cloudinary-embed" target="_blank" rel="noopener noreferrer" class="">https://github.com/KodiStudios/cloudinary-embed</a></p>
+<ul>
+<li class="">End-to-End Picture Support The Cloudinary Embed project allows users to upload
+pictures from their local SSD to Cloudinary service. Once a picture is on
+Cloudinary, it can be referenced by your website! So now we have full
+end-to-end support for picture upload from iPhone to Website.</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="nikolai-aristov-website">Nikolai Aristov Website<a href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture#nikolai-aristov-website" class="hash-link" aria-label="Direct link to Nikolai Aristov Website" title="Direct link to Nikolai Aristov Website" translate="no">​</a></h3>
+<p><a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a></p>
+<ul>
+<li class="">🖼️ Blog with Picture <br>
+<!-- -->From iPhone to Blog, first end-to-end workflow <br>
+<!-- -->Example: <br>
+<a href="https://nikolaiaristov.com/docs/spain/ronda" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com/docs/spain/ronda</a></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-effort">Next Effort<a href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture#next-effort" class="hash-link" aria-label="Direct link to Next Effort" title="Direct link to Next Effort" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="personal-site-httpsaristovnet">Personal Site <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a><a href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture#personal-site-httpsaristovnet" class="hash-link" aria-label="Direct link to personal-site-httpsaristovnet" title="Direct link to personal-site-httpsaristovnet" translate="no">​</a></h3>
+<ul>
+<li class="">🎈 Align DNS Settings<br>
+<!-- -->Need to switch <a href="https://aristov.net/" target="_blank" rel="noopener noreferrer" class="">https://aristov.net</a> to point to <a href="https://nikolaiaristov.com/" target="_blank" rel="noopener noreferrer" class="">https://nikolaiaristov.com</a> <br>
+<!-- -->This will allow full merge.<br>
+<!-- -->Also, need to consider:<br>
+<a href="https://aristov.eu/" target="_blank" rel="noopener noreferrer" class="">https://aristov.eu</a></li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="kodi-studios-website-httpskodistudioscom">Kodi Studios Website <a href="https://kodistudios.com/" target="_blank" rel="noopener noreferrer" class="">https://kodistudios.com</a><a href="https://kodistudios.com/blog/2026/03/07/add-first-ronda-picture#kodi-studios-website-httpskodistudioscom" class="hash-link" aria-label="Direct link to kodi-studios-website-httpskodistudioscom" title="Direct link to kodi-studios-website-httpskodistudioscom" translate="no">​</a></h3>
+<ul>
+<li class="">🐝 Incorporate Best Practices 2026 <br>
+<!-- -->There are still a few improvements that can be done to really make Kodi
+Studios shine. They also include some cleanup and will make it even easier to
+further make Kodi Studios awesome!</li>
+</ul>]]></content>
+        <author>
+            <name>Nikolai Aristov</name>
+            <uri>https://github.com/NikoAri</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Simplify Blog Workflow for Kodi Studios Website]]></title>
         <id>https://kodistudios.com/blog/2026/03/01/simplify-blog-kodi-studios</id>
